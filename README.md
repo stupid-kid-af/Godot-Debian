@@ -3,6 +3,12 @@ Hello guys
 I'm unofficially maintaining [Godot](https://github.com/godotengine/godot) debian version. <br>
 Download the latest deb from [release](https://github.com/stupid-kid-af/Godot-Debian/releases).
 
+# Tip
+  You can open godot engine just by typing in terminal 
+      ```bash
+      godot
+      ```
+
 # Running
   1. Download the lastest deb from release section
   2. Installing 
