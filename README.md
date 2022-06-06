@@ -15,7 +15,7 @@ Download the latest deb from [release](https://github.com/stupid-kid-af/Godot-De
       ```bash
         sudo dpkg -i godot*.deb
       ```
-# Requesting
+# Request
   If your system have some other ARCH then do open an [issue](https://github.com/stupid-kid-af/Godot-Debian/issues/new) for your ARCH
 
 # Compiling
