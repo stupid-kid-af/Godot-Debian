@@ -4,7 +4,7 @@ I'm unofficially maintaining [Godot](https://github.com/godotengine/godot) debia
 Download the latest deb from [release](https://github.com/stupid-kid-af/Godot-Debian/releases).
 
 # Tip
-  You can open godot engine just by typing in terminal 
+  You can open godot engine just by typing in terminal <br>
       ```bash
       godot
       ```
