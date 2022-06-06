@@ -13,7 +13,7 @@ Download the latest deb from [release](https://github.com/stupid-kid-af/Godot-De
   1. Download the lastest deb from release section
   2. Installing 
       ```bash
-      sudo dpkg -i godot*.deb
+        sudo dpkg -i godot*.deb
       ```
 # Compiling
   1.  ```bash
