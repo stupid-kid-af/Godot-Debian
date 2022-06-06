@@ -5,7 +5,7 @@ Download the latest deb from [release](https://github.com/stupid-kid-af/Godot-De
 
 # Tip
   You can open godot engine just by typing in terminal <br>
-      ```bash
+      ```
       godot
       ```
 
