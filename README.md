@@ -4,10 +4,10 @@ I'm unofficially maintaining [Godot](https://github.com/godotengine/godot) debia
 Download the latest deb from [release](https://github.com/stupid-kid-af/Godot-Debian/releases).
 
 # Tip
-  You can open godot engine just by typing in terminal <br>
-      ```
+  You can open godot engine just by typing  ```
       godot
-      ```
+      ``` in terminal <br>
+     
 
 # Running
   1. Download the lastest deb from release section
