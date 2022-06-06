@@ -1,0 +1,28 @@
+#!bin/bash
+
+# Pre-install script for Godot
+
+echo "Looking for older versions of Godot"
+
+if [ -f "$HOME/bin/godot" ]; then
+        sudo rm -f $HOME/bin/godot
+        echo "Removed old godot from ~/bin.."
+
+fi
+
+if [ -f "/usr/local/bin/godot" ]; then
+        sudo rm -f /usr/local/bin/godot
+        echo "Removed old godot from ~/bin..."
+fi
+
+if [ -f "usr/bin/godot" ]; then
+        sudo rm -f usr/bin/godot
+        echo "Removed old godot from /usr/bin.."
+
+fi
+
+if [ -f "/usr/share/applications/godot.destop" ]; then
+        sudo rm -f /usr/local/bin/godot.desktop
+        echo "Removed old godot desktop file from /usr/share/applications/"
+
+fi

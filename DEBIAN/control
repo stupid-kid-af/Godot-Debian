@@ -1,0 +1,8 @@
+
+Package: Godot
+Version: 3.4.4
+architecture: all
+Essential: no
+Priority: optional
+Maintainer: Ashutosh Tripathi
+Description: Godot Engine – Multi-platform 2D and 3D game engine

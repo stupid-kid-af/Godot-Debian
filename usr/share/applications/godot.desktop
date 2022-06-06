@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Godot
+Exec=/usr/bin/godot
+TryExec=/usr/bin/godot
+Icon=/usr/share/icons/Godot_icon
+Terminal=True
+Type=Application
+Categories=Utility
+Name[en_IN]=godot
